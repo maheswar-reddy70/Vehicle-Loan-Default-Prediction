@@ -44,7 +44,7 @@ Random Forest
 
 XGBoost
 
-👉 XGBoost performed the best with a ROC-AUC score of 0.87
+ XGBoost performed the best with a ROC-AUC score of 0.87
 
 Technologies Used
 
